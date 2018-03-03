@@ -1,0 +1,6 @@
+{
+    "name": "IFLF",
+    "descrpition": "a chatbot for the popular facebook page I FUCKING LOVE FOOTBALL",
+    "repository": "https://github.com/iamDio/FB-chatbot",
+    "keywords": ["node","express","static","football","chatbot","facebook"],
+}
